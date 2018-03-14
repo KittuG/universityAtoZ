@@ -1,0 +1,56 @@
+.navbar
+{
+	height: 40px;
+	background-color: #776E6C;
+}
+
+.navbar-header .navbar-brand
+{
+	color: white;
+}
+
+.navbar-header .navbar-brand:hover
+{
+	color: blue;
+	background-color: lightgray;
+}
+
+
+.navbar-transparent .navbar-nav > li > a
+{
+	color: white;
+}
+
+.navbar-transparent .navbar-nav > li > a:hover
+{
+	color: blue;
+	background-color: lightgray;
+}
+
+.parallax-background img
+{
+	width: 100%;
+	height:auto;
+}
+
+.jumbotron {
+    margin-bottom: 20px;
+    background-image: url(img/bg3.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+#n
+{
+	float: right;
+}
+
+#ti
+{
+	padding-top: 80px;
+}
+

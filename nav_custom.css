@@ -1,0 +1,40 @@
+.navbar 
+{
+	background-color: #776E6C;
+}
+
+.navbar-header .navbar-brand 
+{
+	color: white;
+}
+
+.navbar-header .navbar-brand:hover
+{
+	color: blue;
+	background-color: lightgray;
+}
+
+.navbar-default .navbar-nav > li > a
+{
+	color: white;
+}
+
+
+.navbar-default .navbar-nav > li > a:hover , .navbar-default .navbar-nav > li > a:focus 
+{
+	color: blue;
+	background-color: lightgray;
+}
+
+.navbar-default .navbar-nav .dropdown > a:focus
+{
+	color: blue;
+	background-color: lightgray;
+}
+
+.blurred-container > img
+{
+	width: 100%;
+	height: auto;
+}
+
